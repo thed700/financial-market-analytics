@@ -177,4 +177,4 @@ tests/test_pipeline.py  — 12 tests
 
 ## 📄 License
 
-MIT License — feel free to use, fork, and build on this.
+MIT [LICENSE](LICENSE) — feel free to use, fork, and build on this.
